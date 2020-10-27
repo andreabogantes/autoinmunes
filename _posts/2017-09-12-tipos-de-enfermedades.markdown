@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Productivity, Workflow] # add tag
 ---
 
-Según Fernández (2020), las enfermedades autoinmunes se clasifican de la siguiente manera: 
+>Según Fernández (2020), las enfermedades autoinmunes se clasifican de la siguiente manera: Enfermedad inflamatoria intestinal, Diabétes tipo I, Artritis, Celiaquía, El Lupus y otras menos frecuentes.
 A.	Enfermedad inflamatoria intestinal: Con este nombre se conocen dos trastornos del tubo digestivo: la enfermedad de Crohn y la colitis ulcerosa. Se cree que están provocadas por algún microbio que “activa” las defensas originando una inflamación.
 a.	En la enfermedad de Crohn, esta afecta a cualquier parte del tubo digestivo, de la boca al ano. Provoca dolor abdominal y diarreas sanguinolentas. Se trata con fármacos y a veces se requiere cirugía.
 b.	La colitis ulcerosa se localiza solo en el intestino delgado, aunque los síntomas son similares.
