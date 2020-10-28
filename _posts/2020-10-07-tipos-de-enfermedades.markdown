@@ -15,6 +15,7 @@ Con este nombre se conocen dos trastornos del tubo digestivo: la enfermedad de C
 * En la enfermedad de Crohn, esta afecta a cualquier parte del tubo digestivo, de la boca al ano. Provoca dolor abdominal y diarreas sanguinolentas. Se trata con fármacos y a veces se requiere cirugía.
 * La colitis ulcerosa se localiza solo en el intestino delgado, aunque los síntomas son similares.
 * Diabétes tipo I: El sistema de defensas ataca a las células del páncreas encargadas de producir insulina. La insulina es necesaria para que el organismo utilice la glucosa que el cuerpo recibe. En este tipo de Diabetes el páncreas no puede generar insulina lo que causa un problema de salud grave.
+
 ### Artritis Reumatoide
 En esta enfermedad, los principales tejidos dañados son las articulaciones. El trastorno comienza de manera lenta, con dolor articular leve, rigidez y fatiga. Las articulaciones pueden mostrarse calientes y dolorosas.
 ### Celiaquía

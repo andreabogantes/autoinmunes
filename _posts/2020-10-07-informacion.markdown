@@ -22,10 +22,10 @@ Debido a que los linfocitos B tienen un papel importante en la regulación del s
 El problema surge cuando un cuerpo identifica incorrectamente una proteína normal como amenaza, según (INFOBAE, 2017):
 Cuando eso sucede, se producen autoanticuerpos que resultan muy eficaces para dañar nuestros propios cuerpos. Los investigadores descubrieron que "con el tiempo, las células B que inicialmente producen los anticuerpos comienzan a reclutar otras células B para producir autoanticuerpos adicionales dañinos", dice Degn. Hasta ahora esto sólo se observó en ratones, pero los investigadores quieren utilizar esta técnica para ver de qué forma se regula y se acelera esta producción de células B de autoanticuerpos. El bloqueo de los centros germinales podría suponer una ruptura en el círculo vicioso que crean las enfermedades autoinmunes pues bloquearía eficazmente la memoria a corto plazo del sistema inmunológico. Y tras asegurar que "este hallazgo fue una sorpresa", Carroll finalizó: "El descubrimiento no sólo nos dice que las células B autorreactivas están compitiendo dentro de los centros germinales para diseñar un autoanticuerpo, sino que también vimos que la respuesta inmune se amplía para atacar a otros tejidos del cuerpo, llevando a que el epítopo se extienda a la velocidad de un tren fuera de control"
 
-¿Cómo detectarlas?
+### Cómo detectarlas?
 De acuerdo con Rodríguez (2016), los síntomas de los diferentes tipos de enfermedades autoinmunes son múltiples. Se pueden desencadenar por una inflamación, la cual se debe al fuego amigo, o pueden producirse por una falla de órganos como consecuencia de ese ataque. Hay señales generales que aparecen en una etapa temprana de la enfermedad. Algunos síntomas son el malestar general, las pérdidas de apetito y de peso y debilidad.
 Rodríguez indica que existen tres síntomas que nos ayudan a pensar en la posibilidad de una enfermedad autoinmune son:
-1.	La aparición de ronchas rojizas en la piel al exponerse al sol. Te pueden aparecer en la cara, alrededor de la nariz como unas alas de mariposa o pueden salir en otras partes del cuerpo
-2.	Fotofobia: experimentar una molestia exagerada ante el sol
-3.	Caída del cabello
+* La aparición de ronchas rojizas en la piel al exponerse al sol. Te pueden aparecer en la cara, alrededor de la nariz como unas alas de mariposa o pueden salir en otras partes del cuerpo
+* Fotofobia: experimentar una molestia exagerada ante el sol
+* Caída del cabello
 Es importante destacar que, sin importar cuales sean los síntomas que una persona presente, debe asistir al médico porque la desatención y despreocupación de este tipo de enfermedades puede llegar a presentar consecuencias muy graves e incluso la muerte. 
