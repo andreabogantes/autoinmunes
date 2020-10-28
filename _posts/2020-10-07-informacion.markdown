@@ -27,5 +27,5 @@ De acuerdo con Rodríguez (2016), los síntomas de los diferentes tipos de enfer
 Rodríguez indica que existen tres síntomas que nos ayudan a pensar en la posibilidad de una enfermedad autoinmune son:
 * La aparición de ronchas rojizas en la piel al exponerse al sol. Te pueden aparecer en la cara, alrededor de la nariz como unas alas de mariposa o pueden salir en otras partes del cuerpo
 * Fotofobia: experimentar una molestia exagerada ante el sol
-* Caída del cabello
+*   Caída del cabello
 Es importante destacar que, sin importar cuales sean los síntomas que una persona presente, debe asistir al médico porque la desatención y despreocupación de este tipo de enfermedades puede llegar a presentar consecuencias muy graves e incluso la muerte. 
