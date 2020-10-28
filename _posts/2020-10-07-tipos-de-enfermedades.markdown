@@ -5,7 +5,7 @@ date: 2020-10-09 00:00:00 -0600
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: workflow.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Productivity, Workflow] # add tag
+tags: [Tipos, Enfermedades] # add tag
 ---
 
 >Según Fernández (2020), las enfermedades autoinmunes se clasifican de la siguiente manera: Enfermedad inflamatoria intestinal, Diabétes tipo I, Artritis, Celiaquía, El Lupus y otras menos frecuentes.

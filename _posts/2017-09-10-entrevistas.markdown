@@ -4,7 +4,7 @@ title: Entrevistas
 date: 2020-10-07 00:00:00 -0600
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: js-1.jpg # Add image post (optional)
-tags: [Js, Conference] # add tag
+tags: [Preguntas, Entrevista] # add tag
 ---
 Entrevistado: Yirliana Castro Garita 
 Entrevistador: Valerie Sofia Gonzalez Alfaro 
