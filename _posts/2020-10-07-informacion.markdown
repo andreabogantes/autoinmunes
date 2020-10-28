@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Información
-date: 2010-10-10 13:32:20 +0600
+date: 2020-10-10 13:32:20 +0600
 description: You’ll find this post in your `_posts` direcasdasdtory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
