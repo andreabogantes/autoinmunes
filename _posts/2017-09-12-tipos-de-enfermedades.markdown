@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tipos de enfermedades
-date: 2020-10-09 00:00:00 -0600
+date: 2000-10-07 00:00:00 -0600
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: workflow.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
