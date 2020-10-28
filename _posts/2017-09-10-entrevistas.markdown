@@ -6,10 +6,13 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: js-1.jpg # Add image post (optional)
 tags: [Preguntas, Entrevista] # add tag
 ---
-Entrevistado: Yirliana Castro Garita 
-Entrevistador: Valerie Sofia Gonzalez Alfaro 
-Enfermedad autoinmune: Enfermedad de graves 
-Preguntas para una persona portadora de una enfermedad autoinmune:
+# Entrevistado: Yirliana Castro Garita 
+
+# Entrevistador: Valerie Sofia Gonzalez Alfaro 
+
+# Enfermedad autoinmune: Enfermedad de graves 
+
+## Preguntas para una persona portadora de una enfermedad autoinmune:
 ### ¿Cómo ha cambiado de su vida desde que le diagnosticaron la enfermedad? 
 Desde el inicio de la enfermedad mi vida ha tenido un cambio drástico, puedo decir que siento que no soy la misma persona.
 ### ¿Ha sufrido algún tipo de rechazo por portar esta enfermedad en la sociedad? 
@@ -24,8 +27,11 @@ Los jefes deben de tener conocimiento de los síntomas de enfermedades autoinmun
 En mi trabajo la persona que tiene más contacto conmigo ha sido muy considerada y me ha acompañado durante todo el proceso, me ha hecho sentir apoyada.
 
 Entrevistado: Mario Andrés Alfaro Chaves 
+
 Entrevistador: Valerie Sofia Gonzalez Alfaro 
+
 Noticas repretel, jefe en el área de gestión de talento 
+
 Preguntas para una persona que trabaja con una persona con enfermedades autoinmune:
 ### ¿Qué tipo de preguntas se realizan durante en la entrevista a una persona que desea optar por un puesto en su empresa, si esta persona dice tener una enfermedad autoinmune?
 Las preguntas que yo realizaría son, por ejemplo, las condiciones de la enfermedad van a impedir que realice las labores en forma eficiente. En la entrevista nueva la legislación laboral es prohibidas las preguntas personales, se puede preguntar si pueden realizar teletrabajo, si puede salir del país, todas las preguntas son relacionadas y planteadas con respecto a la responsabilidad porque en el área de gestión de talento se trabaja bajo presión y es una jornada laboral completa y como se ve en cinco años. 
