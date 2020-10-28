@@ -6,8 +6,30 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: js-1.jpg # Add image post (optional)
 tags: [Js, Conference] # add tag
 ---
-Jean shorts organic cornhole, gochujang post-ironic chicharrones authentic flexitarian viral PBR&B forage wolf. Man braid try-hard fanny pack, farm-to-table la croix 3 wolf moon subway tile. Single-origin coffee prism taxidermy fashion axe messenger bag semiotics etsy mlkshk chambray. Marfa lumbersexual meditation celiac. Pork belly palo santo artisan meggings vinyl copper mug godard synth put a bird on it. Cloud bread pop-up quinoa, raw denim meditation 8-bit slow-carb. Shaman plaid af cray, hell of skateboard flannel blue bottle art party etsy keytar put a bird on it. Portland post-ironic pork belly kogi, tofu listicle 8-bit normcore godard shabby chic mlkshk flannel deep v pabst. Pork belly kinfolk fingerstache lo-fi raclette. Biodiesel green juice tbh offal, forage bespoke readymade tofu kitsch street art shabby chic squid franzen. Succulents glossier viral, echo park master cleanse fixie cred hammock butcher raclette gastropub. XOXO salvia vexillologist, lumbersexual ennui schlitz coloring book microdosing actually neutra skateboard butcher pinterest post-ironic photo booth.
+Entrevistado: Yirliana Castro Garita 
+Entrevistador: Valerie Sofia Gonzalez Alfaro 
+Enfermedad autoinmune: Enfermedad de graves 
+Preguntas para una persona portadora de una enfermedad autoinmune:
+### ¿Cómo ha cambiado de su vida desde que le diagnosticaron la enfermedad? 
+Desde el inicio de la enfermedad mi vida ha tenido un cambio drástico, puedo decir que siento que no soy la misma persona.
+### ¿Ha sufrido algún tipo de rechazo por portar esta enfermedad en la sociedad? 
+No he sentido rechazo, pero si recibí comentarios negativos de mi aspecto físico que me hicieron sentir mal e incómoda.
+### ¿Ha laborado después de diagnosticada la enfermedad? 
+Si he laborado después del diagnóstico y de los diferentes tratamientos, ha sido difícil ya que hay que lidiar todos los días con el cansancio físico y mental.
+### ¿Ha sido discriminado laboralmente por padecer una enfermedad autoinmune? 
+No he sido discriminada laboralmente ya que trabajo en lo propio, esto hace que sea más fácil de sobrellevar laboralmente la enfermedad
+### ¿Qué consideraciones cree que los jefes deben tomar para incluir a esta población dentro de sus colaboradores y que se sientan cómodos dentro de la empresa? 
+Los jefes deben de tener conocimiento de los síntomas de enfermedades autoinmunes, para así tener consideración con los colaboradores y brindarles el apoyo que necesitan, ya sea con descansos, ambiente agradable, la ventilación de la empresa que sea la tolerable para la persona, poder vestir ropa cómoda, estabilidad emocional, en fin, en el proceso del diagnóstico hasta llegar al tratamiento indicado y ser muy considerado con el colaborador.
+### ¿Qué acciones han tomado sus jefes o el departamento de Recursos Humanos cuando se enteraron de su enfermedad? 
+En mi trabajo la persona que tiene más contacto conmigo ha sido muy considerada y me ha acompañado durante todo el proceso, me ha hecho sentir apoyada.
 
-Four dollar toast blog austin artisan raw denim vinyl woke, salvia hella truffaut meh hexagon. Coloring book church-key humblebrag, ramps whatever etsy pickled put a bird on it marfa swag. Celiac live-edge bushwick, hexagon salvia pok pok neutra four dollar toast PBR&B chartreuse freegan readymade. Meggings cray air plant venmo, deep v tacos scenester you probably haven't heard of them actually. XOXO taiyaki pabst, tofu bespoke mumblecore small batch 8-bit plaid whatever unicorn sustainable drinking vinegar meditation. Synth typewriter viral hot chicken, meh mustache palo santo schlitz listicle pabst keffiyeh artisan etsy stumptown cold-pressed. Occupy locavore cray irony. Chambray whatever vaporware keffiyeh heirloom vice. Single-origin coffee neutra iPhone lyft. Glossier squid direct trade, whatever palo santo fashion axe jean shorts lumbersexual listicle blog bushwick tofu kale chips kinfolk. Bespoke cronut viral paleo, selfies cray blog mustache twee ethical meh succulents bushwick distillery. Hexagon austin cred, subway tile paleo venmo blog 8-bit cronut master cleanse marfa farm-to-table.
-
-Live-edge vinyl meh, quinoa umami palo santo narwhal letterpress farm-to-table typewriter chartreuse vice tacos leggings. Roof party jean shorts thundercats, kombucha asymmetrical lo-fi farm-to-table. Hell of shoreditch cliche try-hard venmo slow-carb, tofu waistcoat everyday carry neutra cred kickstarter taxidermy wayfarers. Direct trade banh mi pug skateboard banjo edison bulb. Intelligentsia cliche quinoa synth umami. Trust fund four loko hoodie paleo cray tote bag slow-carb ennui. Williamsburg food truck intelligentsia trust fund. Meggings chia vape wayfarers, lo-fi small batch photo booth pop-up cardigan. Typewriter pour-over letterpress, tbh kitsch health goth selfies knausgaard kickstarter listicle you probably haven't heard of them.
+Entrevistado: Mario Andrés Alfaro Chaves 
+Entrevistador: Valerie Sofia Gonzalez Alfaro 
+Noticas repretel, jefe en el área de gestión de talento 
+Preguntas para una persona que trabaja con una persona con enfermedades autoinmune:
+### ¿Qué tipo de preguntas se realizan durante en la entrevista a una persona que desea optar por un puesto en su empresa, si esta persona dice tener una enfermedad autoinmune?
+Las preguntas que yo realizaría son, por ejemplo, las condiciones de la enfermedad van a impedir que realice las labores en forma eficiente. En la entrevista nueva la legislación laboral es prohibidas las preguntas personales, se puede preguntar si pueden realizar teletrabajo, si puede salir del país, todas las preguntas son relacionadas y planteadas con respecto a la responsabilidad porque en el área de gestión de talento se trabaja bajo presión y es una jornada laboral completa y como se ve en cinco años. 
+### ¿Qué acciones se realizan para que un colaborador con este tipo de enfermedades se sienta a gusto en su ámbito laboral?
+Dependiendo de la enfermedad en la empresa hay una política inclusiva en el caso de una persona así se realiza teletrabajo cuando lo necesite, y no tenga movilizarse, en este caso se debe hacer cargo Recursos Humanos y mi jefe, nadie mas lo debe saber, solo la doctora de la empresa debe conocer el estado de esa persona, por si sufre alguna crisis o efecto segundario, saber que decirle al 911 y cómo actuar correctamente.
+### ¿Qué tipo de enfermedades normalmente se encuentran en la empresa en la que usted labora?
+He tenido trabajadores con cáncer y en la etapa de quimioterapia, que fue de tres meses donde éramos tres colaboradores y yo me tuve que hacer cargo del trabajo de ese colaborador durante los tres meses que el no estuvo. 
