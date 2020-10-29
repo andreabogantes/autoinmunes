@@ -6,37 +6,38 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: js-1.jpg # Add image post (optional)
 tags: [Preguntas, Entrevista] # add tag
 ---
-### ¿Qué es la discriminación, y cuáles son sus formas de expresión?
-Según el **Diccionario de la Real Academia Española** (DRAE), el término “discriminar” tiene dos significados que se indican a continuación:
 
->*tr*. Seleccionar excluyendo y;
->
->*tr*. Dar trato desigual a una persona o colectividad por motivos raciales, religiosos, políticos, de sexo, de edad, de condición física o mental, etc.
+# Preguntas para una persona portadora de una enfermedad autoinmune
+### Entrevistado: Yirliana Castro Garita 
 
-En el primer concepto lo resume en excluir una cosa de otra, sin embargo, el segundo hace referencia al trato social diferenciado y esto es lo que le sucede a muchas personas que padecen de enfermedades autoinmunes. Los discriminan en la sociedad y en el ámbito laboral debido a su “estilo” de vida distinto al de una persona sana, porque se cree que no tienen la capacidad de realizar las mismas cosas o funciones que ellos. 
+### Entrevistador: Valerie Sofia Gonzalez Alfaro 
 
-Según **Morales** (2019)
->Existen distintos tipos de discriminación, entre los que se pueden mencionar los siguientes:
->* **Discriminación racial**: por pertenecer a una raza no predominante o debido a prejuicios asociados a determinada etnia,
->* **Discriminación de género o sexual**: debido a desigualdades de género o violencia contra alguna orientación sexual,
->* **Discriminación por edad**: especialmente dirigidos a los niños y niñas que sufren por abusos de poder,
->* **Discriminación por su nacionalidad o su origen**: especialmente dirigidos a migrantes o extranjeros de países que sufren de prejuicios,
->* **Discriminación religiosa**: debido a su credo, prácticas o costumbres religiosas,
->* **Discriminación política**: censura por sus ideas políticas,
->* **Discriminación por su situación o su posición social**: el trato desigual por condiciones de discapacidad o por clase social.
+### Enfermedad autoinmune: Enfermedad de graves 
 
-La discriminación laboral se da frecuentemente, y las personas con enfermedades autoinmunes pueden llegar a sufrirlo, en algunos casos estos por alguna situación pueden llegar a necesitar una incapacidad laboral y por esto puede llegar a suceder que se despida este colaborador, según **(Prieto, 2007)**.
+### ¿Cómo ha cambiado de su vida desde que le diagnosticaron la enfermedad? 
+Desde el inicio de la enfermedad mi vida ha tenido un cambio drástico, puedo decir que siento que no soy la misma persona.
+### ¿Ha sufrido algún tipo de rechazo por portar esta enfermedad en la sociedad? 
+No he sentido rechazo, pero si recibí comentarios negativos de mi aspecto físico que me hicieron sentir mal e incómoda.
+### ¿Ha laborado después de diagnosticada la enfermedad? 
+Si he laborado después del diagnóstico y de los diferentes tratamientos, ha sido difícil ya que hay que lidiar todos los días con el cansancio físico y mental.
+### ¿Ha sido discriminado laboralmente por padecer una enfermedad autoinmune? 
+No he sido discriminada laboralmente ya que trabajo en lo propio, esto hace que sea más fácil de sobrellevar laboralmente la enfermedad
+### ¿Qué consideraciones cree que los jefes deben tomar para incluir a esta población dentro de sus colaboradores y que se sientan cómodos dentro de la empresa? 
+Los jefes deben de tener conocimiento de los síntomas de enfermedades autoinmunes, para así tener consideración con los colaboradores y brindarles el apoyo que necesitan, ya sea con descansos, ambiente agradable, la ventilación de la empresa que sea la tolerable para la persona, poder vestir ropa cómoda, estabilidad emocional, en fin, en el proceso del diagnóstico hasta llegar al tratamiento indicado y ser muy considerado con el colaborador.
+### ¿Qué acciones han tomado sus jefes o el departamento de Recursos Humanos cuando se enteraron de su enfermedad? 
+En mi trabajo la persona que tiene más contacto conmigo ha sido muy considerada y me ha acompañado durante todo el proceso, me ha hecho sentir apoyada.
 
-La perspectiva desde el despido objetivo presenta contornos muy similares, aunque la consideración como justificadas de las faltas de asistencia al trabajo (debidas a una situación de IT) implica que puedan ser tenidas en cuenta a efectos de articular un despido objetivo 19. Obviamente, en este caso sería necesario que las ausencias del trabajo cumplieran los requisitos exigidos en el precepto legal, especialmente el carácter intermitente, la necesidad de superar los límites que fija la regulación legal y tratarse de períodos de baja que, aun habiendo sido acreditados por los servicios sanitarios oficiales y trayendo causa de una enfermedad común y accidente no laboral, tengan una duración inferior a 20 días consecutivos (art. 52.d ET). No obstante, se podría encontrar algunos problemas a la hora de computar estas faltas de asistencia al trabajo, aun en aquellos casos en que se cumplieran los condicionantes legales, puesto que su estimación no sería muy conforme a los propios efectos jurídicos de la suspensión que impiden no sólo la ejecución de obligación de trabajar sino también el cumplimiento de la obligación de asistir al centro de trabajo. **(Prieto, 2007)**.
+# Preguntas para una persona que trabaja con una persona con enfermedades autoinmune
 
-### Legislación
-Como afirma la **Declaración Universal de los Derechos Humanos**: 
->Todos son iguales ante la Ley y tienen, sin distinción, derecho a igual protección de la Ley. Todos tienen derecho a igual protección contra toda discriminación que infrinja esta Declaración y contra toda provocación a tal discriminación. **(Asamblea General de la ONU, 1948)**.
+### Entrevistado: Mario Andrés Alfaro Chaves 
 
-En Costa Rica también existen leyes que respaldan a las personas que son discriminadas laboralmente. Según el **Código de Trabajo de la República de Costa Rica**, (1943), 
->Se prohíbe discriminar, en los siguientes artículos:
->* ARTICULO 404.- Se prohíbe toda discriminación en el trabajo por razones de edad, etnia, sexo, religión, raza, orientación sexual, estado civil, opinión política, ascendencia nacional, origen social, filiación, condición de salud, discapacidad, afiliación sindical, situación económica o cualquier otra forma análoga de discriminación.
->* ARTICULO 405.- Todas las personas trabajadoras que desempeñen en iguales condiciones subjetivas y objetivas un trabajo igual gozarán de los mismos derechos, en cuanto a jornada laboral y remuneración, sin discriminación alguna.
->* ARTICULO 406.- Se prohíbe el despido de los trabajadores o las trabajadoras por las razones señaladas en el artículo 404.
->* ARTICULO 408.- Todas las personas, sin discriminación alguna, gozarán de las mismas oportunidades para obtener empleo y deberán ser consideradas elegibles en el ramo de su especialidad, siempre y cuando reúnan los requisitos formales solicitados por la persona empleadora o que estén establecidos mediante ley o reglamento.
-Como podemos ver, en Costa Rica sí existe una legislación que protege a las personas de la discriminación y aunque no se defina la enfermedad como un tipo de discriminación, es por esto que en el Artículo 404 del Código laboral utiliza el rubro de cualquier otra forma análoga de discriminación. Por lo tanto, si una persona es discriminada por padecer una enfermedad autoinmune, esta persona puede ser amparada por la ley bajo ese artículo.
+### Entrevistador: Valerie Sofia Gonzalez Alfaro 
+
+### Noticas repretel, jefe en el área de gestión de talento 
+
+### ¿Qué tipo de preguntas se realizan durante en la entrevista a una persona que desea optar por un puesto en su empresa, si esta persona dice tener una enfermedad autoinmune?
+Las preguntas que yo realizaría son, por ejemplo, las condiciones de la enfermedad van a impedir que realice las labores en forma eficiente. En la entrevista nueva la legislación laboral es prohibidas las preguntas personales, se puede preguntar si pueden realizar teletrabajo, si puede salir del país, todas las preguntas son relacionadas y planteadas con respecto a la responsabilidad porque en el área de gestión de talento se trabaja bajo presión y es una jornada laboral completa y como se ve en cinco años. 
+### ¿Qué acciones se realizan para que un colaborador con este tipo de enfermedades se sienta a gusto en su ámbito laboral?
+Dependiendo de la enfermedad en la empresa hay una política inclusiva en el caso de una persona así se realiza teletrabajo cuando lo necesite, y no tenga movilizarse, en este caso se debe hacer cargo Recursos Humanos y mi jefe, nadie mas lo debe saber, solo la doctora de la empresa debe conocer el estado de esa persona, por si sufre alguna crisis o efecto segundario, saber que decirle al 911 y cómo actuar correctamente.
+### ¿Qué tipo de enfermedades normalmente se encuentran en la empresa en la que usted labora?
+He tenido trabajadores con cáncer y en la etapa de quimioterapia, que fue de tres meses donde éramos tres colaboradores y yo me tuve que hacer cargo del trabajo de ese colaborador durante los tres meses que el no estuvo. 
