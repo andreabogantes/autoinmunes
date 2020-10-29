@@ -9,8 +9,10 @@ tags: [Discriminacion, Laboral]
 ---
 ### ¿Qué es la discriminación, y cuáles son sus formas de expresión?
 Según el Diccionario de la Real Academia Española (DRAE), el término “discriminar” tiene dos significados que se indican a continuación:
+```sh
 1.	tr. Seleccionar excluyendo y; 
 2.	tr. Dar trato desigual a una persona o colectividad por motivos raciales, religiosos, políticos, de sexo, de edad, de condición física o mental, etc.
+```
 En el primer concepto lo resume en excluir una cosa de otra, sin embargo, el segundo hace referencia al trato social diferenciado y esto es lo que le sucede a muchas personas que padecen de enfermedades autoinmunes. Los discriminan en la sociedad y en el ámbito laboral debido a su “estilo” de vida distinto al de una persona sana, porque se cree que no tienen la capacidad de realizar las mismas cosas o funciones que ellos. 
 
 Según Morales (2019), existen distintos tipos de discriminación, entre los que se pueden mencionar los siguientes:
@@ -21,6 +23,7 @@ Según Morales (2019), existen distintos tipos de discriminación, entre los que
 * Discriminación religiosa: debido a su credo, prácticas o costumbres religiosas,
 * Discriminación política: censura por sus ideas políticas,
 * Discriminación por su situación o su posición social: el trato desigual por condiciones de discapacidad o por clase social.
+
 >La discriminación laboral se da frecuentemente, y las personas con enfermedades autoinmunes pueden llegar a sufrirlo, en algunos casos estos por alguna situación pueden llegar a necesitar una incapacidad laboral y por esto puede llegar a suceder que se despida este colaborador, según (Prieto, 2007).
 
 >La perspectiva desde el despido objetivo presenta contornos muy similares, aunque la consideración como justificadas de las faltas de asistencia al trabajo (debidas a una situación de IT) implica que puedan ser tenidas en cuenta a efectos de articular un despido objetivo 19. Obviamente, en este caso sería necesario que las ausencias del trabajo cumplieran los requisitos exigidos en el precepto legal, especialmente el carácter intermitente, la necesidad de superar los límites que fija la regulación legal y tratarse de períodos de baja que, aun habiendo sido acreditados por los servicios sanitarios oficiales y trayendo causa de una enfermedad común y accidente no laboral, tengan una duración inferior a 20 días consecutivos (art. 52.d ET). No obstante, se podría encontrar algunos problemas a la hora de computar estas faltas de asistencia al trabajo, aun en aquellos casos en que se cumplieran los condicionantes legales, puesto que su estimación no sería muy conforme a los propios efectos jurídicos de la suspensión que impiden no sólo la ejecución de obligación de trabajar sino también el cumplimiento de la obligación de asistir al centro de trabajo. (Prieto, 2007).
