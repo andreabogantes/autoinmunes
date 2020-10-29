@@ -2,7 +2,7 @@
 layout: post
 title: Tipos de enfermedades
 date: 2020-10-09 00:00:00 -0600
-description: Según Fernández (2020), las enfermedades autoinmunes se clasifican de la siguiente manera enfermedad inflamatoria intestinal... # Add post description (optional)
+description: Tipos de enfermedad autoinmunes  # Add post description (optional)
 img: workflow.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Tipos, Enfermedades] # add tag

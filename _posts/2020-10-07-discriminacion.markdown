@@ -2,7 +2,7 @@
 layout: post
 title: Discriminación laboral
 date: 2020-10-07 15:32:20 +0600
-description: You’ll find this post in your `_posts` direcasdasdtory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Discriminación laboral hacia las personas con enfermedades autoinmunes. # Add post description (optional)
 img: legal.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Discriminacion, Laboral]

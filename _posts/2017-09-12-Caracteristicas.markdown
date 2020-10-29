@@ -2,7 +2,7 @@
 layout: post
 title: Caracteristicas de la población
 date: 2020-10-08 00:00:00 -0600
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Caracteristicas de la población con enfermedades autoinmunes # Add post description (optional)
 img: software.jpg # Add image post (optional)
 tags: [Poblacion, Caracteristicas] # add tag
 ---
