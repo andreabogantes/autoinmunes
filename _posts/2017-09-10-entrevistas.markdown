@@ -5,13 +5,11 @@ date: 2020-10-07 00:00:00 -0600
 description: Entrevistas a personas portadoras de enfermedades autoinmunes # Add post description (optional)
 img: js-1.jpg # Add image post (optional)
 tags: [Preguntas, Entrevista] # add tag
-
 ---
 # **Entrevista #1** -  **Preguntas para una persona portadora de una enfermedad autoinmune**
 ---
 ---
 **Enfermedad autoinmune: Enfermedad de graves**
----
 ---
 ## **¿Cómo ha cambiado de su vida desde que le diagnosticaron la enfermedad?**
 ### Desde el inicio de la enfermedad mi vida ha tenido un cambio drástico, puedo decir que siento que no soy la misma persona.
