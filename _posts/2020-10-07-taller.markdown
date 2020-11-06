@@ -7,18 +7,18 @@ img: taller.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Taller, Autoinmune]
 ---
-## El proyecto se divide en dos fases:
-* **Fase educativa**: La primera fase consiste en enseñar a las personas con enfermedades autoinmunes, independiente de cual sea la enfermedad que tengan, sobre los antecedentes de estas enfermedades, los diferentes tipos que existen, cómo detectarlas, causas, tratamientos, y principalmente cómo aprender a convivir con la enfermedad.  
+# **El proyecto se divide en dos fases**:
+* #### **Fase educativa**: La primera fase consiste en enseñar a las personas con enfermedades autoinmunes, independiente de cual sea la enfermedad que tengan, sobre los antecedentes de estas enfermedades, los diferentes tipos que existen, cómo detectarlas, causas, tratamientos, y principalmente cómo aprender a convivir con la enfermedad.  
 
-* **Actividades**: La fase de las actividades tiene en fin de ayudarles a manejar sus pensamientos y emociones porque sucede que, cuando una persona tiene un dolor crónico, terminan por meterse en una dinámica de pensamientos disfuncionales que crean ansiedad y depresiones. 
+* #### **Actividades**: La fase de las actividades tiene en fin de ayudarles a manejar sus pensamientos y emociones porque sucede que, cuando una persona tiene un dolor crónico, terminan por meterse en una dinámica de pensamientos disfuncionales que crean ansiedad y depresiones. 
 
-Entre las actividades que se realizan es que definan lo que les ha supuesto la enfermedad, en una palabra, para después intentar transformarlas en algo que no sea negativo, sino neutro o incluso positivo. Para ellos, su enfermedad supone discapacidad, ruina y otros sustantivos muy negativos, pero es posible hacerles aprender que estos pensamientos no son operativos, sino automáticos y disfuncionales y, en muchas ocasiones, aprender a transformarlo.
+#### Entre las actividades que se realizan es que definan lo que les ha supuesto la enfermedad, en una palabra, para después intentar transformarlas en algo que no sea negativo, sino neutro o incluso positivo. Para ellos, su enfermedad supone discapacidad, ruina y otros sustantivos muy negativos, pero es posible hacerles aprender que estos pensamientos no son operativos, sino automáticos y disfuncionales y, en muchas ocasiones, aprender a transformarlo.
 
-## Segunda actividad
-Tratar temas como el estrés, ansiedad, autoestima, autocuidado. Los pacientes deben realizar llenar el siguiente cuadro.
+## **Segunda actividad**
+#### Tratar temas como el estrés, ansiedad, autoestima, autocuidado. Los pacientes deben realizar llenar el siguiente cuadro.
 
 
-| Preguntas        | Acción           |
+| **Preguntas**        | **Acción**           |
 | ------------- |:-------------:| 
 | ¿Cuáles son mis prioridades?      | En esta sección los pacientes deben decidir qué cosas se deben hacer y qué cosas pueden esperar |
 | ¿Quiénes me proporcionan apoyo emocional y de otra índole?    |Siempre es bueno pedir ayuda a amigos, familiares, a la comunidad u organizaciones para reducir el estrés debido a la enfermedad.       | 
@@ -26,5 +26,24 @@ Tratar temas como el estrés, ansiedad, autoestima, autocuidado. Los pacientes d
 | ¿En qué me puedo enfocar, que no sea mi enfermedad? | Es bueno que las personas se enfoquen en cosas que han logrado y no en lo que no han podido hacer debido a su condición. |
 |¿Cuánto ejercicio a la semana puedo realizar?                  |       Incentivar a los pacientes a hacer ejercicio, aunque sean 30 minutos por día es bueno, porque esto puede levantarle el ánimo y reducir el estrés. |
 
-## Tercera actividad
-Se pretende mejorar las habilidades sociales de las personas que padecen enfermedades autoinmunes, para ayudarlos a la hora que quieran conseguir un empleo y que se incorporen a la sociedad después de su diagnóstico. Para lograr este objetivo, se propone una charla de personas que han pasado por la misma situación y que a pesar se su condición sigue trabajando y ha aprendido a vivir con ella.
+# **Tercera actividad**
+#### Se pretende mejorar las habilidades sociales de las personas que padecen enfermedades autoinmunes, para ayudarlos a la hora que quieran conseguir un empleo y que se incorporen a la sociedad después de su diagnóstico. Para lograr este objetivo, se propone una charla de personas que han pasado por la misma situación y que a pesar se su condición sigue trabajando y ha aprendido a vivir con ella.
+
+# **Resultados del taller**
+
+## **¿Cuáles son mis prioridades?**
+#### Mis prioridades son mi hijo, el trabajo, además tratar de estar el mayor tiempo relajada, evitar el estrés y así no activar mis anticuerpos para lograr mantenerme emocionalmente estable. 
+
+## **¿Quiénes me proporcionan apoyo emocional y de otra índole?**
+#### Mi prima Ivannia y mi hijo.
+
+## **¿Cuáles actividades relajantes disfruto?**
+#### Yoga y escuchar música.
+
+## **¿En qué me puedo enfocar, que no sea mi enfermedad?**
+### En mi curso de inglés además hacer ejercicios 
+
+## **¿Cuánto ejercicio a la semana puedo realizar?**
+#### 3 veces al gimnasio
+#### 1 yoga 
+#### Cada vez q se pueda hago senderismo
