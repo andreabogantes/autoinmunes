@@ -40,4 +40,6 @@ tags: [Preguntas, Entrevista] # add tag
 ## **¿Qué acciones se realizan para que un colaborador con este tipo de enfermedades se sienta a gusto en su ámbito laboral?**
 #### Dependiendo de la enfermedad en la empresa hay una política inclusiva en el caso de una persona así se realiza teletrabajo cuando lo necesite, y no tenga movilizarse, en este caso se debe hacer cargo Recursos Humanos y mi jefe, nadie mas lo debe saber, solo la doctora de la empresa debe conocer el estado de esa persona, por si sufre alguna crisis o efecto segundario, saber que decirle al 911 y cómo actuar correctamente.
 ## **¿Qué tipo de enfermedades normalmente se encuentran en la empresa en la que usted labora?**
-#### He tenido trabajadores con cáncer y en la etapa de quimioterapia, que fue de tres meses donde éramos tres colaboradores y yo me tuve que hacer cargo del trabajo de ese colaborador durante los tres meses que el no estuvo. 
+#### He tenido trabajadores con cáncer y en la etapa de quimioterapia, que fue de tres meses donde éramos tres colaboradores y yo me tuve que hacer cargo del trabajo de ese colaborador durante los tres meses que el no estuvo.
+
+![alt text](https://raw.githubusercontent.com/andreabogantes/autoinmunes/master/assets/img/FOTO.jpeg "Título")
