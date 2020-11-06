@@ -8,8 +8,8 @@ fig-caption: # Add figcaption (optional)
 tags: [Tipos, Enfermedades] # add tag
 ---
 
-## Según **Fernández (2020)**:
-### Las enfermedades autoinmunes se clasifican de la siguiente manera: Enfermedad inflamatoria intestinal, Diabétes tipo I, Artritis, Celiaquía, El Lupus y otras menos frecuentes.
+### Según **Fernández (2020)**:
+>Las enfermedades autoinmunes se clasifican de la siguiente manera: Enfermedad inflamatoria intestinal, Diabétes tipo I, Artritis, Celiaquía, El Lupus y otras menos frecuentes.
 
 ##	**Enfermedad inflamatoria intestinal**
 ### Con este nombre se conocen dos trastornos del tubo digestivo: la enfermedad de Crohn y la colitis ulcerosa. Se cree que están provocadas por algún microbio que “activa” las defensas originando una inflamación.

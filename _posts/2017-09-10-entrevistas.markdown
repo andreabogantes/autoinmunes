@@ -13,11 +13,10 @@ tags: [Preguntas, Entrevista] # add tag
 **Enfermedad autoinmune: Enfermedad de graves**
 ---
 ---
----
 ## **¿Cómo ha cambiado de su vida desde que le diagnosticaron la enfermedad?**
-## Desde el inicio de la enfermedad mi vida ha tenido un cambio drástico, puedo decir que siento que no soy la misma persona.
+### Desde el inicio de la enfermedad mi vida ha tenido un cambio drástico, puedo decir que siento que no soy la misma persona.
 ## **¿Ha sufrido algún tipo de rechazo por portar esta enfermedad en la sociedad?**
-#### No he sentido rechazo, pero si recibí comentarios negativos de mi aspecto físico que me hicieron sentir mal e incómoda.
+### No he sentido rechazo, pero si recibí comentarios negativos de mi aspecto físico que me hicieron sentir mal e incómoda.
 ## **¿Ha laborado después de diagnosticada la enfermedad?**
 ### Si he laborado después del diagnóstico y de los diferentes tratamientos, ha sido difícil ya que hay que lidiar todos los días con el cansancio físico y mental.
 ## **¿Ha sido discriminado laboralmente por padecer una enfermedad autoinmune?**
